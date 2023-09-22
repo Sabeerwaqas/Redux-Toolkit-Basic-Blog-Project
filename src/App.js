@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import PostsList from "./features/posts/PostsList";
 
 function App() {
   return (
-<>
-  
-</>
+    <>
+      <PostsList />
+    </>
   );
 }
 
